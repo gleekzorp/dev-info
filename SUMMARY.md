@@ -4,11 +4,14 @@
 
 ## Python <a id="python-1"></a>
 
+* [Virtual Environments](python-1/virtual-environments.md)
 * [Challenges](python-1/challenges.md)
 * [Flask](python-1/flask/README.md)
   * [Docs](python-1/flask/docs.md)
   * [Examples](python-1/flask/examples.md)
   * [Tutorials](python-1/flask/tutorials.md)
+* [FastAPI](python-1/fastapi/README.md)
+  * [Docs](python-1/fastapi/docs.md)
 
 ## CSS
 
