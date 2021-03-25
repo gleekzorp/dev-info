@@ -30,3 +30,8 @@
 
 * [Challenges](react/challenges.md)
 
+## Redis
+
+* [Install](redis/install.md)
+* [Cheat Sheet](redis/cheat-sheet.md)
+
