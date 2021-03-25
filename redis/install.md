@@ -67,6 +67,8 @@ RESTART YOUR COMPUTER AFTER THE INSTALL IS DONE.
 
 1. Open the Microsoft Store and search for Ubuntu.
 2. From the Ubuntu page, select "Get".
+   1. You might get asked to install, go ahead and click install if it asks.
+   2. You will need to click launch after it downloads and installs.
 
 ![Microsoft Store Ubuntu Page](../.gitbook/assets/ubuntustore.png)
 
@@ -77,7 +79,7 @@ The first time you launch a newly installed Linux distribution, a console window
 ### Step 3 - Create a user account and password
 
 {% hint style="info" %}
-When you type your password, you won't see any text but it is typing.  Luckily they do a verify password to make sure you typed it correctly.
+When you type your password, you won't see any text but it is typing.  Luckily they have a verified password to make sure you typed it correctly.
 {% endhint %}
 
 ![Ubuntu username and password creation](../.gitbook/assets/ubuntuinstall.png)
