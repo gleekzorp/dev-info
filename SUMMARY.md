@@ -33,5 +33,5 @@
 ## Redis
 
 * [Install](redis/install.md)
-* [Cheat Sheet](redis/cheat-sheet.md)
+* [Information](redis/information.md)
 
