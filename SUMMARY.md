@@ -2,18 +2,18 @@
 
 * [Welcome](README.md)
 
-## Python <a id="python-1"></a>
+## Python
 
-* [Install](python-1/install.md)
-* [Virtual Environments](python-1/virtual-environments.md)
-* [Challenges](python-1/challenges.md)
-* [Flask](python-1/flask/README.md)
-  * [Docs](python-1/flask/docs.md)
-  * [Examples](python-1/flask/examples.md)
-  * [Tutorials](python-1/flask/tutorials.md)
-* [FastAPI](python-1/fastapi/README.md)
-  * [Docs](python-1/fastapi/docs.md)
-* [FAQ](python-1/faq.md)
+* [Install](python/install.md)
+* [Virtual Environments](python/virtual-environments.md)
+* [Challenges](python/challenges.md)
+* [Flask](python/flask/README.md)
+  * [Docs](python/flask/docs.md)
+  * [Examples](python/flask/examples.md)
+  * [Tutorials](python/flask/tutorials.md)
+* [FastAPI](python/fastapi/README.md)
+  * [Docs](python/fastapi/docs.md)
+* [FAQ](python/faq.md)
 
 ## CSS
 
