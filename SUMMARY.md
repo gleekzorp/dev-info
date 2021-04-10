@@ -4,7 +4,6 @@
 
 ## Python <a id="python-1"></a>
 
-* [FAQ](python-1/faq.md)
 * [Install](python-1/install.md)
 * [Virtual Environments](python-1/virtual-environments.md)
 * [Challenges](python-1/challenges.md)
@@ -14,6 +13,7 @@
   * [Tutorials](python-1/flask/tutorials.md)
 * [FastAPI](python-1/fastapi/README.md)
   * [Docs](python-1/fastapi/docs.md)
+* [FAQ](python-1/faq.md)
 
 ## CSS
 
