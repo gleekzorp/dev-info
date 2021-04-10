@@ -2,7 +2,7 @@
 description: List of various information I have come across
 ---
 
-# Information
+# Docs
 
 * Redis Commands
   * [https://redis.io/commands](https://redis.io/commands)

@@ -34,5 +34,5 @@
 ## Redis
 
 * [Install](redis/install.md)
-* [Information](redis/information.md)
+* [Docs](redis/docs.md)
 
