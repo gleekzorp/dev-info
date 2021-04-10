@@ -45,5 +45,3 @@ $
 
 Congratulations, you have successfully installed Python3 on your PC.
 
-
-
