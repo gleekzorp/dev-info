@@ -36,3 +36,7 @@
 * [Install](redis/install.md)
 * [Docs](redis/docs.md)
 
+## Books
+
+* [Testing](books/testing.md)
+
