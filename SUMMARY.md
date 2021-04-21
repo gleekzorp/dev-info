@@ -13,6 +13,7 @@
   * [Tutorials](python/flask/tutorials.md)
 * [FastAPI](python/fastapi/README.md)
   * [Docs](python/fastapi/docs.md)
+* [Docs](python/docs.md)
 * [FAQ](python/faq.md)
 
 ## CSS
