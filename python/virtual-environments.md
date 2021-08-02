@@ -8,7 +8,7 @@ description: >-
 
 ## Virtual Environments, Packages, and Environment Variables
 
-I have two different ways listed below for creating Virtual Environments. There is many other options but these are my current favorites. I'm currently looking into `pyenv` for my `python` version management and `poetry` for my package management. My current recommendation is using `venv` over `pipenv`. Please make sure to add your `venv` folder to your `.gitignore` if you plan to use version control.
+I have two different ways listed below for creating Virtual Environments. There are many other options but these are my current favorites. I'm currently looking into `pyenv` for my `python` version management and `poetry` for my package management. My current recommendation is to use `venv` over `pipenv`. Please make sure to add your `venv` folder to your `.gitignore` if you plan to use version control.
 
 {% hint style="info" %}
 If you are using windows, I personally have run into a lot of issues with Powershell, I would recommend using cmd prompt.
