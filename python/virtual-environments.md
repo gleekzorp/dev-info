@@ -70,6 +70,12 @@ $ venv\Scripts\activate
 (venv) $ pip install package-name
 ```
 
+{% hint style="info" %}
+I have sometimes had packages not install correctly because my pip was out of date.  I have grown a habbit of updating pip when creating a new virtual environment.  This isn't required but it has seemed to help.
+
+`python -m pip install --upgrade pip`
+{% endhint %}
+
 ### Requirements File:
 
 If you ever need to regenerate your environment on another machine, you are going to have trouble remembering what packages you had to install, so the generally accepted practice is to write a `requirements.txt` file in the root folder of your project listing all the dependencies, along with their versions. Producing this list is actually easy:
