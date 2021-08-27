@@ -52,3 +52,9 @@ description: This is a list of books that I have either read or want to read
 
 ![Thinking, Fast and Slow Book](../.gitbook/assets/thinking-fast-and-slow.jpeg)
 
+## Agile Testing Condensed: A Brief Introduction <a id="title"></a>
+
+[https://agiletester.ca/agile-testing-condensed-a-brief-introduction/](https://agiletester.ca/agile-testing-condensed-a-brief-introduction/)
+
+![ Agile Testing Condensed: A Brief Introduction](../.gitbook/assets/agile-testing-condensed-book-227x300.jpg)
+
